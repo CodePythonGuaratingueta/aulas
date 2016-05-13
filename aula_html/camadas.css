@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+}
+
+.corpo{
+    background: #a6e1ec;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.topo{
+    background: #d58512;
+    color: #ffffff;
+    text-align: left;
+}

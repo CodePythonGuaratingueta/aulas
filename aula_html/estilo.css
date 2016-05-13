@@ -1,0 +1,42 @@
+
+
+body{
+    background: #ffffff;
+}
+/* isso é um comentário */
+
+#titulo{
+    color: #90100c;
+    font-size: 200%;
+    margin-top: 200px;
+    padding: 100px 0;
+}
+
+.classe{
+    color: #23527c;
+    font-size: 140%;
+    margin: 25px 40px;
+}
+
+.lista li{
+    margin: 15px 0;
+    list-style: none;
+}
+.lista li a, .lista li a:visited{
+    text-decoration: none;
+    display: inline-block;
+    border: #417c5b solid 1px;
+    background: #417c5b;
+    padding: 15px 25px;
+    color: #ffffff;
+}
+.lista li a:hover, .lista li a:focus{
+    background: #e2e2e2;
+    border: #417c5b solid 1px;
+    color: #417c5b;
+}
+table tbody tr td{
+    color: #204d74;
+    font-weight: bold;
+}
+
